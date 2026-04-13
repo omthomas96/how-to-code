@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(209, 147, 157);
+}
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgba(7, 250, 169, 0.369);
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    color: rgba(240, 255, 255, 0.712);
+}
+p {
+    color: black;
+}
+ul {
+    color: black;
+}
+li {
+    color: black;
+}
